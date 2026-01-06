@@ -1,2 +1,2 @@
 # test-class
-this is the test class
+this is the test class.
